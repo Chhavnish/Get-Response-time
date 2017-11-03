@@ -1,0 +1,5 @@
+require "get_res_time/version"
+
+module GetResTime
+  
+end
